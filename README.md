@@ -18,3 +18,10 @@ pretendido e por fim a possibilidade de cancelar a encomenda.
 # React
 ![Screenshot_2](https://user-images.githubusercontent.com/83920931/122745375-d8cea400-d280-11eb-8b64-ad7e8638c093.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/83920931/122745399-dd935800-d280-11eb-8622-530a49f623c0.png)
+
+# Postman
+![Screenshot_4](https://user-images.githubusercontent.com/83920931/122745670-23e8b700-d281-11eb-9467-c60f072bddb0.png)
+
+# MySQL (base de dados)
+![Screenshot_5](https://user-images.githubusercontent.com/83920931/122745756-3b27a480-d281-11eb-88c4-0a1b75079f86.png)
+
