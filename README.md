@@ -25,3 +25,6 @@ pretendido e por fim a possibilidade de cancelar a encomenda.
 # MySQL (base de dados)
 ![Screenshot_5](https://user-images.githubusercontent.com/83920931/122745756-3b27a480-d281-11eb-88c4-0a1b75079f86.png)
 
+Trabalho Realizado por:
+Bruno Soares - A036152
+Rui Rodrigues - A036442
